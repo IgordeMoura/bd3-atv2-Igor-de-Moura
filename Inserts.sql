@@ -13,3 +13,15 @@ VALUES ('1','Mario','41251352323','511516714','11955311357','11995017182','Mario
        ('2','Claudinho','42362723414','517945123','11912572365','11984920185','Claudin@gmail.com','07/09/2004'),
        ('2','Jurema','61246234689','416124257','11985420192','11982917823','Jurema@gmail.com','29/08/2004'),
 	   ('2','Paola','92041412341','723421632','11918058391','11973910643','Paola@gmail.com','25/05/2004');
+       
+INSERT INTO tbl_disciplinas(cod_turma, sigla)
+VALUES ('1', 'Português'),
+	   ('1', 'Matemática'),
+       ('1', 'História'),
+       ('1', 'Geografia'),
+       ('2', 'Sociologia'),
+       ('2', 'Filosofia'),
+       ('2', 'Inglês'),
+       ('2', 'Espanhol');
+       
+       
